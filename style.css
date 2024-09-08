@@ -1,0 +1,45 @@
+.div{
+    background-color: pink;
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 400px;
+    border: 5px black solid;
+
+}
+.inp{
+    text-align: center;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border: 2px black solid;
+    font-size: larger;
+    
+}
+.button{
+    font-size: x-large;
+    border: 1.5px black solid;
+    margin: 3px;
+    
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 1000;
+    font-size: xx-large;
+}
+ul{
+    font-size:x-large;
+    
+    
+}
+.li{
+    margin: 10px;
+    
+}
+.del{
+    margin-left: 10px;
+    border: 1.5px black solid;
+    
+}
